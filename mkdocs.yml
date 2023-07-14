@@ -5,4 +5,9 @@ theme:
     - navigation.instant
 nav:
   - Home: index.md
+  - 'Contributing':
+      - 'Contributing to the Standards': contributing.md
+      - 'Template to Follow': template.md
+  - 'Ways of Working':
+      - 'Reuse': wow/reuse.md
   - About: about.md
