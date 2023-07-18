@@ -8,6 +8,7 @@ theme:
 plugins:
   - search
   - git-authors
+  - git-revision-date-localized
 nav:
   - Home: index.md
   - 'Contributing':
