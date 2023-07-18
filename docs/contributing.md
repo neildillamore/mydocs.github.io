@@ -5,3 +5,5 @@ Add pages that you feel are relevant and then get them reviewed. Once merged int
 they will automatically be added to the site
 
 Use the [template](template.md) as a starting point
+
+Updating
