@@ -12,3 +12,4 @@ nav:
   - 'Ways of Working':
       - 'Reuse': wow/reuse.md
   - About: about.md
+  - Test: test.md
