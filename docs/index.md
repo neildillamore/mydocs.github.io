@@ -11,7 +11,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Project layout
 
-Updating
+Updating with some text
 
     mkdocs.yml    # The configuration file.
     docs/
