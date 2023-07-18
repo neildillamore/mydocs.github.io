@@ -3,6 +3,7 @@ Summary:        Test page with different formatting
 Authors:        Neil Dillamore
                 A N Other
 
+{{ git_page_last_updated }}
 # Test Page
 
 ## Second header
