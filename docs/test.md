@@ -24,7 +24,7 @@ public class MyClass {
 
 > Inculpata infirmis differt facies maxima aevi tutam, Haemum medius, aera
 > vulnus studio *oppositas* rogat carinae sed Iovem cuique. Inminet nec omni
-> spatiantia neque Titan, [reuse page internal link](reuse.md) paret et fata.
+> spatiantia neque Titan, [reuse page internal link](wow/reuse.md) paret et fata.
 > Natum esse est aequalis est quosque datis absens ait nempe aqua fugias sedes.
 > Tuta nec referens, quos *actae finge Terram* tu exanimi **mecum**.
 
