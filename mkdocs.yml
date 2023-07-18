@@ -4,6 +4,9 @@ theme:
   name: material
   features:
     - navigation.instant
+plugins:
+  - search
+  - git-authors
 nav:
   - Home: index.md
   - 'Contributing':
