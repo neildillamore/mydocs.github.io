@@ -7,6 +7,7 @@ Within these pages you will find information related to different front-end tech
 best practice, designs etc etc.
 
 The information held here should help answer questions like:
+
 * Multi-page or single-page?
 * Which front-end technology should I use and when?
 * Best practice when using different front-end technologies
