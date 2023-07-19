@@ -7,6 +7,7 @@ Within these pages you will find information related to different cloud architec
 containerisation, serverless etc etc.
 
 The information held here should help answer questions like:
+
 * [Why Cloud?](why-cloud.md)
 * Which Cloud?
 * Hybrid vs Full Cloud
