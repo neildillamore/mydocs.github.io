@@ -1,4 +1,4 @@
-# Welcome to My Docs
+# Index
 
 ## Introduction
 This is the homepage of documentation that relates to communities of practice,

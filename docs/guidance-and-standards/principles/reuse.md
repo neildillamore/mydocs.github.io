@@ -9,6 +9,7 @@ There are things that can be done to bootstrap projects to make everyones lives 
 and reuse can make it easier to transition from one project to another
 
 Reuse can extend across many areas of a project, some examples:
+
 * Documentation
 * Project Initiation
 * Project Cadence
