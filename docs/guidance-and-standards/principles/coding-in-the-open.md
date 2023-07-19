@@ -8,9 +8,16 @@ Authors:        Neil Dillamore
 
 ## Introduction
 Coding in the open, a practice of developing software and sharing the process publicly, has 
-gained traction in the tech community. This article explores the numerous benefits of 
+gained traction in the tech community. This page explores the numerous benefits of 
 embracing this transparent approach, which includes, among other things, fostering 
 collaboration, driving innovation, and facilitating continuous learning.
+
+### Practical Implementations
+* Developers proactively and openly share their code, ideas, and insights with others.
+* Collaboration and contributions from a wider community are encouraged.
+* Knowledge sharing among developers becomes a central aspect of the process.
+* Feedback, suggestions, improvements and bug identification are sought from users and peers.
+* Continuous learning is facilitated by showcasing skills and receiving feedback from a diverse audience.
 
 ### Collaboration and Knowledge Sharing
 Coding in the open encourages collaboration among developers, enabling them to share 
