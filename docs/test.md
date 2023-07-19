@@ -15,7 +15,7 @@ Authors:        Neil Dillamore
 
 ``` java
 public class MyClass {
-    public static main(String args[]) {
+    public static void main(String args[]) {
         // do something
     }
 }
