@@ -11,10 +11,8 @@ plugins:
   - git-revision-date-localized
 nav:
   - Home: index.md
-  - 'Contributing':
-      - 'Contributing to the Standards': contributing.md
-      - 'Template to Follow': template.md
-  - 'Ways of Working':
-      - 'Reuse': wow/reuse.md
+  - 'Code of Conduct': code-of-conduct.md
+  - 'Communities of Practice': communities/communities.md
+  - 'Guidance and Standards': guidance-and-standards/guidance-and-standards.md
+  - 'Learning Zone': learning-zone/learning-zone.md
   - About: about.md
-  - Test: test.md

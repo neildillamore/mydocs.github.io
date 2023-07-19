@@ -1,19 +1,10 @@
 # Welcome to My Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Introduction
+This is the homepage of documentation that relates to communities of practice,
+general principles and best practice within Digital and provides many links
+out to provide useful information and learning for anyone in our team.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-Updating with some text and some more
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Navigation
+* Follow the navigation to drill down through relevant pages.
+* Use the search to find specific keywords.
