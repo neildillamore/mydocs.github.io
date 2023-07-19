@@ -1,3 +1,9 @@
+Title:          Coding in the Open
+Summary:        Benefits of coding in the open to foster collaboration, innovation and
+                learning to benefit everyone and incrementally improve knowledge and
+                outcomes
+Authors:        Neil Dillamore
+
 # The Benefits of Coding in the Open: Fostering Collaboration, Innovation, and Learning
 
 ## Introduction
