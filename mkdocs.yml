@@ -9,10 +9,4 @@ plugins:
   - search
   - git-authors
   - git-revision-date-localized
-nav:
-  - Home: index.md
-  - 'Code of Conduct': code-of-conduct.md
-  - 'Communities of Practice': communities/communities.md
-  - 'Guidance and Standards': guidance-and-standards/guidance-and-standards.md
-  - 'Learning Zone': learning-zone/learning-zone.md
-  - About: about.md
+
