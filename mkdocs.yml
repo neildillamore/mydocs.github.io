@@ -1,7 +1,6 @@
 site_name: My Docs
 repo_url: https://github.com/neildillamore/mydocs.github.io/
 theme:
-  name: BackstageTheme
   custom_dir: docs/overrides
   features:
     - navigation.instant
