@@ -1,13 +1,9 @@
 site_name: My Docs
 repo_url: https://github.com/neildillamore/mydocs.github.io/
-theme:
-  name: material
-  custom_dir: docs/overrides
-  features:
-    - navigation.instant
+
 plugins:
-  - search
+  - techdocs-core
   - git-authors
   - git-revision-date-localized
-  - techdocs-core
+
 
