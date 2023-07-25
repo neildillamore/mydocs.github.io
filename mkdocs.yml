@@ -2,8 +2,8 @@ site_name: My Docs
 repo_url: https://github.com/neildillamore/mydocs.github.io/
 
 plugins:
-  - search
   - techdocs-core
+  - search
   - git-authors
   - git-revision-date-localized
 
