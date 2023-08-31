@@ -1,0 +1,3 @@
+- Bullet points for major principles
+- Templates for different types of doc
+- Example of each different type of doc
