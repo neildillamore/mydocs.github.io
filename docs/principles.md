@@ -90,4 +90,5 @@ everyone has to work in and with.
 ### Developer Experience
 Consider what are the pain points at each point in the software delivery lifecycle.
 
-
+## 10. Bringing Ingenuity to Life
+Foster creativity, be open to new ideas, and bring ingenuity to life.
